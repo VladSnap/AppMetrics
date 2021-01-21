@@ -6,6 +6,7 @@
     <TargetFrameworks Condition=" '$(OS)' == 'Windows_NT' ">$(TargetFrameworks);net461</TargetFrameworks>
     <RootNamespace>App.Metrics</RootNamespace>
     <PackageTags>appmetrics;metrics</PackageTags>
+    <Version>3.2.0</Version>
   </PropertyGroup>
 
   <ItemGroup>
